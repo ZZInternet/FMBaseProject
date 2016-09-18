@@ -1,0 +1,14 @@
+//
+//  FMBaseProject.pch
+//  FMBaseProject
+//
+//  Created by shanjin on 16/9/18.
+//  Copyright © 2016年 付新明. All rights reserved.
+//
+
+#ifndef FMBaseProject_pch
+#define FMBaseProject_pch
+
+#import "PublicHeader.h"
+
+#endif /* FMBaseProject_pch */
